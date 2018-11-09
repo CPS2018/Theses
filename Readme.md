@@ -16,8 +16,8 @@ The drone which was named as F651 is a hexacopter built from a DJI F550 frame. T
 [coverage]: http://www.diva-portal.org/smash/get/diva2:1218680/FULLTEXT02.pdf
 [altitude]: http://www.diva-portal.org/smash/get/diva2:1229952/FULLTEXT02.pdf
 
-If you used this code, kindly consider citing the thesis: 
+If you used any part of thiw work, kindly consider citing these theses: 
 
-E. Andersson and A. Bogga, ‘Hexacopter with gripping module’, Bachelor's Dissertation, Halmstad University, Sweden 2018.
-P. Karlsson and E. Johansson, ‘Object Identifier System for Autonomous UAV’, Bachelor's Dissertation, Halmstad University, Sweden 2018.
-M. Roden and J. Carlsen, ‘Obstacle avoidance and altitude control for autonomous UAV’, Bachelor's Dissertation, Halmstad University, Sweden 2018.
+1. E. Andersson and A. Bogga, ‘Hexacopter with gripping module’, Bachelor's Dissertation, Halmstad University, Sweden 2018.
+2. P. Karlsson and E. Johansson, ‘Object Identifier System for Autonomous UAV’, Bachelor's Dissertation, Halmstad University, Sweden 2018.
+3. M. Roden and J. Carlsen, ‘Obstacle avoidance and altitude control for autonomous UAV’, Bachelor's Dissertation, Halmstad University, Sweden 2018.
