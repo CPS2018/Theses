@@ -9,10 +9,15 @@ The drone which was named as F651 is a hexacopter built from a DJI F550 frame. T
 
 2. The [coverage] planning, object detection and pickup was developed by two Competer Science Engineering students - Patrik Karlsson and Emil Johansson.
 
-3. The [altitude] control and obstacle avoidance was developed by two Electrical Engineering students - Markus and Jacob Carlsson.
+3. The [altitude] control and obstacle avoidance was developed by two Electrical Engineering students - Marcus Roden and Jakob Carlsen.
 
 [CPS-VO]: https://cps-vo.org/group/CPSchallenge 
 [Drone]:http://www.diva-portal.org/smash/get/diva2:1216528/FULLTEXT02.pdf
 [coverage]: http://www.diva-portal.org/smash/get/diva2:1218680/FULLTEXT02.pdf
 [altitude]: http://www.diva-portal.org/smash/get/diva2:1229952/FULLTEXT02.pdf
 
+If you used this code, kindly consider citing the thesis: 
+
+E. Andersson and A. Bogga, ‘Hexacopter with gripping module’, Bachelor's Dissertation, Halmstad University, Sweden 2018.
+P. Karlsson and E. Johansson, ‘Object Identifier System for Autonomous UAV’, Bachelor's Dissertation, Halmstad University, Sweden 2018.
+M. Roden and J. Carlsen, ‘Obstacle avoidance and altitude control for autonomous UAV’, Bachelor's Dissertation, Halmstad University, Sweden 2018.
