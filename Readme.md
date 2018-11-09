@@ -27,5 +27,5 @@ If you used any part of this work, kindly consider citing these theses:
 # License
 Distributed with a GNU GENERAL PUBLIC LICENSE.
 
-Site Maintained by Jennifer David.
-[Jennifer David]: https://github.com/jenniferdavid
+Site Maintained by [Jennifer David].
+[Jennifer]: https://github.com/jenniferdavid
