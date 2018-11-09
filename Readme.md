@@ -1,4 +1,4 @@
-In this repo, you find the theses and papers published as a part of the [CPS-VO] Challenge 2018. The competition requires  In this competition, "Team Halmstad" of Halmstad University secured second place and also won a special mention "Best UAV design award".
+In this repo, you find the theses and papers published as a part of the [CPS-VO] Challenge 2018. The competition requires Bachelor students to demonstrate that an autonomous UAV can search through the desert and pick up a dead UAV and restore it to the base. In this competition, "Team Halmstad" of Halmstad University secured second place and also won a special mention "Best UAV design award".
 
 
 ![1_real_hexacopter_flight](https://user-images.githubusercontent.com/2436747/48282553-4b850b00-e45a-11e8-912e-9bd05bb5fb74.png)
