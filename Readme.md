@@ -1,0 +1,1 @@
+In this repo, you find the theses and papers published as a part of the CPS-VO Challenge 2018 in which "Team Halmstad" of Halmstad Univeristy secured second place and also won a special mention "Best UAV design award".
