@@ -8,7 +8,7 @@ The team consists of 6 Bachelor students, 4 Doctoral students and an Assistant S
 The drone which was named as F651 is a hexacopter built from a DJI F550 frame. The complete drone was built from scratch by six bachelor students as a part of their Bachelor thesis work. The coordinator from the University for the competition was [Maytheewat Aramrattana].
 1. The [Drone] body, its grippers design and the complete hardware system were designed and built by two Mechatronics Engineering students - [Anders Bogga] and [Emil Andersson] supervised by [Wojciech Mostowski].
 
-2. The [coverage] planning, object detection and pickup was developed by two Competer Science Engineering students - [Patrik Karlsson] and [Emil Johansson] supervised by [Mahsa Varshosaz].
+2. The [coverage] planning, object detection and pickup was developed by two Computer Science Engineering students - [Patrik Karlsson] and [Emil Johansson] supervised by [Mahsa Varshosaz].
 
 3. The [altitude] control and obstacle avoidance was developed by two Electrical Engineering students - [Marcus Roden] and [Jakob Carlsen] supervised by [Yuantao Fan] and [Jennifer David].
 
